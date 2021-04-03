@@ -24,6 +24,3 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShariqRazaQadri) 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShariqRazaQadri&repo=shariqrazaqadri)
 
-```
-
-```
