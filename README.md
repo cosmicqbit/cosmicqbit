@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shariq</h1>
 <h3 align="center">A passionate learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariqrazaqadri&label=Profile%20views&color=0e75b6&style=flat" alt="shariqrazaqadri" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shariqrazaqadri&label=Profile%20views&color=0e75b6&style=flat" alt="shariqrazaqadri" /> </p>
 
 - 🔭 I’m currently working on **my portfolio.**
 
