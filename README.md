@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Bash, Javascript**
 
-- 📫 How to reach me **ShariqRazaQadri@protonmail.com**
+- 📫 How to reach me **ShariqRazaQadri@pm.me**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
