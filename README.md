@@ -3,13 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shariqrazaqadri&label=Profile%20views&color=0e75b6&style=flat" alt="shariqrazaqadri" /> </p>
 
-- 🔭 I’m currently working on **my portfolio.**
-
-- 🌱 I’m currently learning **Everything 🤣**
-
-- 👯 I’m looking to collaborate on **CSS.**
-
-- 🤝 I’m looking for help with **Bash, Javascript**
 
 - 📫 How to reach me **ShariqRazaQadri@pm.me**
 
