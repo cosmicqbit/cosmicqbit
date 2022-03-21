@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/cosmicqbit" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicqbit?logo=twitter&style=for-the-badge" alt="cosmicqbit" /></a> </p>
 
-- 🔭 I’m currently working on **myself.**
-
-- 🌱 I’m currently learning **DSA**
-
 - 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](cosmicqbit.dev/projects)
 
 - 📝 I regularly write articles on [cosmicqbit.dev/blog](cosmicqbit.dev/blog)
