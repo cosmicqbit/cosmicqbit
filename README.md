@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/cosmicqbit" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicqbit?logo=twitter&style=for-the-badge" alt="cosmicqbit" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](cosmicqbit.dev/projects)
+- 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects/)
 
-- 📝 I regularly write articles on [cosmicqbit.dev/blog](cosmicqbit.dev/blog)
+- 📝 I regularly write articles on [cosmicqbit.dev/blog](https://cosmicqbit.dev/posts)
 
 - 📫 How to reach me **Shariqrazaqadri@pm.me**
 
