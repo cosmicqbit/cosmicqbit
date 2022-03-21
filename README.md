@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shariq</h1>
 <h3 align="center">A Frontend Web Developer & Graphics Designer</h3>
-<img src="https://telegra.ph/file/374ce63bc76fc2305c990.jpg">
+<img src="https://telegra.ph/file/0718be9f7788c3cb1fdf9.jpg">
 
 - 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects)
 
