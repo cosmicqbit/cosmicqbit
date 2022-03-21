@@ -18,5 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicqbit&show_icons=true&locale=en" alt="cosmicqbit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicqbit&" alt="cosmicqbit" /></p>
-https://starchart.cc/{cosmicqbit}/{cosmicqbit}.svg
+https://starchart.cc/cosmicqbit/cosmicqbit.svg
 
