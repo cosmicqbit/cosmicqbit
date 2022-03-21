@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmicqbit" alt="cosmicqbit" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](cosmicqbit.dev/projects)
+- 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects)
 
-- 📝 I regularly write articles on [cosmicqbit.dev/blog](cosmicqbit.dev/blog)
+- 📝 I regularly write articles on [cosmicqbit.dev/posts](https://cosmicqbit.dev/posts)
 
 - 📫 How to reach me **Shariqrazaqadri@pm.me**
 
