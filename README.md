@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects/)
 
-- 📝 I regularly write articles on [cosmicqbit.dev/blog](https://cosmicqbit.dev/posts)
+- 📝 I regularly write articles on [cosmicqbit.dev/posts](https://cosmicqbit.dev/posts)
 
 - 📫 How to reach me **Shariqrazaqadri@pm.me**
 
