@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shariq</h1>
-<h3 align="center">A Frontend Web Developer & Graphics Designer</h3>
+<h1 align="center">Shariq Raza Qadri 👨🏻‍💻🚀</h1>
+<h2 align="center">Web Developer + Designer +  Digital Nomad +  Indie-Maker ⚡🛠️</h2>
 <img src="https://telegra.ph/file/bbd28be3c584476029a39.jpg">
 
 - 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects)
