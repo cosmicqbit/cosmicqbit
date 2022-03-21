@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmicqbit" alt="cosmicqbit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cosmicqbit" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicqbit?logo=twitter&style=for-the-badge" alt="cosmicqbit" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects/)
 
 - 📝 I regularly write articles on [cosmicqbit.dev/blog](https://cosmicqbit.dev/posts)
