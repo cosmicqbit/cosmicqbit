@@ -15,6 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicqbit&show_icons=true&locale=en" alt="cosmicqbit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicqbit&" alt="cosmicqbit" /></p>
