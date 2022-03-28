@@ -39,7 +39,7 @@
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="36">
+<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" height="30">
 </div>
 
 ### Others:
