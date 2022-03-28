@@ -33,7 +33,7 @@
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
 </div>
 
-### Dev-Ops:
+### Dev-Ops Stack:
 
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
