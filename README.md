@@ -1,6 +1,6 @@
 <h1 align="center">Shariq Raza Qadri 👨🏻‍💻🚀</h1>
 <h2 align="center">Web Developer + Designer +  Digital Nomad +  Indie-Maker ⚡🛠️</h2>
-<img src="https://telegra.ph/file/bbd28be3c584476029a39.jpg">
+<img src="https://telegra.ph/file/e4618fea7c68462748a1c.jpg">
 
 - 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects)
 
