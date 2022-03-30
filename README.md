@@ -2,13 +2,9 @@
 <h2 align="center">Web Developer + Designer +  Digital Nomad +  Indie-Maker ⚡🛠️</h2>
 <img src="https://telegra.ph/file/e4618fea7c68462748a1c.jpg">
 
-- 👨‍💻 All of my projects are available at [cosmicqbit.dev/projects](https://cosmicqbit.dev/projects)
-
-- 📝 I regularly write articles on [cosmicqbit.dev/posts](https://cosmicqbit.dev/posts)
 
 - 📫 How to reach me **Shariqrazaqadri@pm.me**
 
-- ⚡ Fun fact **The Earth is stationary.**
 
 <h3 align="left">Languages and Tools:</h3>
 
