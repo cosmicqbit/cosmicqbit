@@ -10,7 +10,6 @@
 
 #### Frontend/UI:
 
-<div>
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
@@ -18,6 +17,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
 ![React](https://img.shields.io/badge/-react-eeeeee?style=for-the-badge&logo=react)
+
+<div>
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30">
 <img src="https://technologyoutfitter.com/wp-content/uploads/2020/07/css-118-569410.png" height="30">
 <img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
