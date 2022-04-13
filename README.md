@@ -28,12 +28,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
 
 
-<div>
-<img src="https://www.perceptionsystem.com/wp-content/uploads/2020/12/php-plain.svg" height="30" />
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="30">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="39">
-</div>
-
 ### Dev-Ops Stack:
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
