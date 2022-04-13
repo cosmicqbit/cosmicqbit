@@ -3,9 +3,6 @@
 <img src="https://telegra.ph/file/e4618fea7c68462748a1c.jpg">
 
 
-- 📫 How to reach me **Shariqrazaqadri@pm.me**
-
-
 <h3 align="left">🛠️ My Tech Stack</h3>
 
 #### Frontend/UI:
@@ -36,6 +33,9 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
+
+
+📫 How to reach me **Shariqrazaqadri@pm.me**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" /></p>
 
