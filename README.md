@@ -39,8 +39,8 @@
 
 📫 How to reach me **Shariqrazaqadri@pm.me**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" /></p>
-
+### 📈 Github Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicqbit&show_icons=true&locale=en" alt="cosmicqbit" /></p>
 
