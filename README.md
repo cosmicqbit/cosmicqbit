@@ -10,6 +10,7 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Figma](https://img.shields.io/badge/-figma-?style=for-the-badge&logo=figma)
 
 ![Boostrap](https://img.shields.io/badge/-boostrap-purple?style=for-the-badge&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-tailwind-41A5B2?style=for-the-badge&logo=tailwind)
@@ -28,6 +29,7 @@
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/-docker-skyblue?style=for-the-badge&logo=docker)
 
 ### Languages:
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
