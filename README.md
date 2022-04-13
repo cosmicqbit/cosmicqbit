@@ -6,7 +6,7 @@
 - 📫 How to reach me **Shariqrazaqadri@pm.me**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ My Tech Stack</h3>
 
 #### Frontend/UI:
 
@@ -18,7 +18,6 @@
 ![Tailwind](https://img.shields.io/badge/-tailwind-41A5B2?style=for-the-badge&logo=tailwind)
 
 ![React](https://img.shields.io/badge/-react-eeeeee?style=for-the-badge&logo=react)
-
 
 
 #### Backend/Database:
@@ -33,7 +32,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
-### Others:
+### Languages:
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
