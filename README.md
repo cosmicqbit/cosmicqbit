@@ -37,7 +37,7 @@
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
 
 
-📫 How to reach me **Shariqrazaqadri@pm.me**
+📫 How to reach me **Shariqrazaqadri@proton.me**
 
 ### 📈 Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" /></p><br>
