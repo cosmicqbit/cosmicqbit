@@ -36,8 +36,10 @@
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
 
+### Contact:
+<a href="mailto:shariqrazaqadri@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://telegram.me/servejustice/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-📫 How to reach me **Shariqrazaqadri@proton.me**
 
 ### 📈 Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" /></p><br>
