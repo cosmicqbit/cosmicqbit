@@ -14,10 +14,7 @@
 
 ![Boostrap](https://img.shields.io/badge/-boostrap-purple?style=for-the-badge&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-tailwind-41A5B2?style=for-the-badge&logo=tailwind)
-
 ![React](https://img.shields.io/badge/-react-eeeeee?style=for-the-badge&logo=react)
-
-d
 
 #### Backend/Database:
 
