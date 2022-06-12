@@ -2,7 +2,6 @@
 <h2 align="center">Web Developer + Designer +  Digital Nomad +  Indie-Maker ⚡🛠️</h2>
 <img src="https://telegra.ph/file/e4618fea7c68462748a1c.jpg">
 
-
 <h3 align="left">🛠️ My Tech Stack</h3>
 
 #### Frontend/UI:
