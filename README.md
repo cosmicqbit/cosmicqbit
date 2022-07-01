@@ -54,4 +54,4 @@ to develop our FOSS project.
 [the Software Freedom Conservancy](https://sfconservancy.org) to understand
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
-<img src="https://sfconservancy.org/img/GiveUpGitHub.png"  height="200px" width="200px">
+<img src="https://sfconservancy.org/img/GiveUpGitHub.png"  height="300px" width="300px">
