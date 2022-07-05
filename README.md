@@ -43,15 +43,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicqbit&theme=light" alt="cosmicqbit">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicqbit&bg_color=30,00B4D9,00B4D8&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="cosmicqbit" /></p>
 
-
-## We're Using GitHub Under Protest
-
-My projects are currently hosted on GitHub.  This is not ideal; GitHub is a
-proprietary, trade-secret system that is not Free and Open Souce Software
-(FOSS).  We are deeply concerned about using a proprietary system like GitHub
-to develop our FOSS project. 
-[Give up GitHub](https://GiveUpGitHub.org) campaign from
-[the Software Freedom Conservancy](https://sfconservancy.org) to understand
-some of the reasons why GitHub is not a good place to host FOSS projects.
-
-<img src="https://sfconservancy.org/img/GiveUpGitHub.png"  height="300px" width="300px">
