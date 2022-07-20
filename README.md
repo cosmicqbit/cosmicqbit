@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-docker-skyblue?style=for-the-badge&logo=docker)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Languages:
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
