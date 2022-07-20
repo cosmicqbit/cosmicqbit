@@ -40,7 +40,7 @@
 
 
 ### 📈 Github Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicqbit&show_icons=true&locale=en&layout=compact" alt="cosmicqbit" /><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicqbit&theme=light" alt="cosmicqbit">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicqbit&show_icons=true&locale=en" alt="cosmicqbit" />
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicqbit&bg_color=30,00B4D9,00B4D8&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="cosmicqbit" /></p> --->
