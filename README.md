@@ -30,9 +30,8 @@
 ![Docker](https://img.shields.io/badge/-docker-skyblue?style=for-the-badge&logo=docker)
 
 ### Languages:
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
 
 ### Contact:
 <a href="mailto:shariqrazaqadri@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
