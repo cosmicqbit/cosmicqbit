@@ -1,5 +1,5 @@
 <h1 align="center">Shariq Raza Qadri 👨🏻‍💻🚀</h1>
-<h2 align="center">Web Developer + Designer +  DevOps +  Privacy Enthusiast ⚡🛠️</h2>
+<h2 align="center">Frontend Dev + DevOps Enthusiast + Designer + Privacy Advocate ⚡🛠️</h2>
 <img src="https://telegra.ph/file/e4618fea7c68462748a1c.jpg">
 
 <h3 align="left">🛠️ My Tech Stack</h3>
