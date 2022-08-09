@@ -37,6 +37,8 @@
 <a href="mailto:shariqrazaqadri@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://telegram.me/servejustice/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+## 📖 You can read my blogs on [Hashnode](https://blog.cosmicqbit.dev/)
+<br>
 
 ### 📈 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicqbit&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
