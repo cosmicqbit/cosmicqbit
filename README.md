@@ -47,6 +47,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#123](https://github.com/commclassroom/roadmaps/issues/123) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+2. 🗣 Commented on [#120](https://github.com/commclassroom/roadmaps/issues/120) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+3. 🗣 Commented on [#97](https://github.com/commclassroom/roadmaps/issues/97) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+4. 💪 Opened PR [#97](https://github.com/commclassroom/roadmaps/pull/97) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+5. 🗣 Commented on [#96](https://github.com/commclassroom/roadmaps/issues/96) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
 <!--END_SECTION:activity-->
 
 ### Blog Posts
