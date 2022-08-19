@@ -37,8 +37,6 @@
 ### Contact:
 <a href="mailto:shariqrazaqadri@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://telegram.me/servejustice/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-## 📖 You can read my blogs on [Hashnode](https://blog.cosmicqbit.dev/)
 <br>
 
 ### 📈 Github Stats:
@@ -50,3 +48,7 @@
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+### Blog Posts
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
