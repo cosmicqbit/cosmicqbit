@@ -22,4 +22,3 @@ jobs:
           BLOG_URL: "https://cosmicqbit.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Footer
