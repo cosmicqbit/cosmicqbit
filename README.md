@@ -61,9 +61,9 @@ Lik... </p> <br/> <br/>
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/MANMAID007/creative-coding-2-0-in-js-animation-sound-color/issues/1) in [MANMAID007/creative-coding-2-0-in-js-animation-sound-color](https://github.com/MANMAID007/creative-coding-2-0-in-js-animation-sound-color)
-2. 💪 Opened PR [#7](https://github.com/rohitg00/devops-twitter-bot/pull/7) in [rohitg00/devops-twitter-bot](https://github.com/rohitg00/devops-twitter-bot)
-3. 💪 Opened PR [#2](https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion/pull/2) in [0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion](https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion)
-4. 🗣 Commented on [#163](https://github.com/commclassroom/roadmaps/issues/163) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
+1. 💪 Opened PR [#1721](https://github.com/kamranahmedse/developer-roadmap/pull/1721) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. ❗️ Opened issue [#1](https://github.com/MANMAID007/creative-coding-2-0-in-js-animation-sound-color/issues/1) in [MANMAID007/creative-coding-2-0-in-js-animation-sound-color](https://github.com/MANMAID007/creative-coding-2-0-in-js-animation-sound-color)
+3. 💪 Opened PR [#7](https://github.com/rohitg00/devops-twitter-bot/pull/7) in [rohitg00/devops-twitter-bot](https://github.com/rohitg00/devops-twitter-bot)
+4. 💪 Opened PR [#2](https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion/pull/2) in [0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion](https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion)
 5. 🗣 Commented on [#163](https://github.com/commclassroom/roadmaps/issues/163) in [commclassroom/roadmaps](https://github.com/commclassroom/roadmaps)
 <!--END_SECTION:activity-->
