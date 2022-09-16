@@ -61,9 +61,9 @@ Lik... </p> <br/> <br/>
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/wiredhackers/Learn-Linux/pull/1) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
-2. 🗣 Commented on [#1](https://github.com/wiredhackers/Learn-Linux/issues/1) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
-3. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-4. 🗣 Commented on [#1](https://github.com/MANMAID007/creative-coding-2-0-in-js-animation-sound-color/issues/1) in [MANMAID007/creative-coding-2-0-in-js-animation-sound-color](https://github.com/MANMAID007/creative-coding-2-0-in-js-animation-sound-color)
-5. 💪 Opened PR [#1721](https://github.com/kamranahmedse/developer-roadmap/pull/1721) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 🎉 Merged PR [#2](https://github.com/wiredhackers/Learn-Linux/pull/2) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+2. 💪 Opened PR [#2](https://github.com/wiredhackers/Learn-Linux/pull/2) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+3. 🎉 Merged PR [#1](https://github.com/wiredhackers/Learn-Linux/pull/1) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+4. 🗣 Commented on [#1](https://github.com/wiredhackers/Learn-Linux/issues/1) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+5. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
 <!--END_SECTION:activity-->
