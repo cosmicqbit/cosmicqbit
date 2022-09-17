@@ -62,8 +62,8 @@ Lik... </p> <br/> <br/>
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/rohitg00/DevOpsCommunity/issues/7) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-2. 🎉 Merged PR [#3](https://github.com/wiredhackers/Learn-Linux/pull/3) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
-3. 💪 Opened PR [#3](https://github.com/wiredhackers/Learn-Linux/pull/3) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
-4. 🎉 Merged PR [#2](https://github.com/wiredhackers/Learn-Linux/pull/2) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
-5. 💪 Opened PR [#2](https://github.com/wiredhackers/Learn-Linux/pull/2) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+2. 🗣 Commented on [#7](https://github.com/rohitg00/DevOpsCommunity/issues/7) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+3. 🎉 Merged PR [#3](https://github.com/wiredhackers/Learn-Linux/pull/3) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+4. 💪 Opened PR [#3](https://github.com/wiredhackers/Learn-Linux/pull/3) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+5. 🎉 Merged PR [#2](https://github.com/wiredhackers/Learn-Linux/pull/2) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
 <!--END_SECTION:activity-->
