@@ -61,9 +61,9 @@ Lik... </p> <br/> <br/>
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+1. 💪 Opened PR [#13](https://github.com/rohitg00/DevOpsCommunity/pull/13) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
 2. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-3. 🗣 Commented on [#7](https://github.com/rohitg00/DevOpsCommunity/issues/7) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+3. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
 4. 🗣 Commented on [#7](https://github.com/rohitg00/DevOpsCommunity/issues/7) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-5. 🎉 Merged PR [#3](https://github.com/wiredhackers/Learn-Linux/pull/3) in [wiredhackers/Learn-Linux](https://github.com/wiredhackers/Learn-Linux)
+5. 🗣 Commented on [#7](https://github.com/rohitg00/DevOpsCommunity/issues/7) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
 <!--END_SECTION:activity-->
