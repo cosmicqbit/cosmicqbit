@@ -1,6 +1,6 @@
 <h1 align="center">Shariq Raza Qadri 👨🏻‍💻🚀</h1>
 <h2 align="center">Frontend Dev + DevOps Enthusiast + Designer + Privacy Advocate ⚡🛠️</h2>
-![](https://user-images.githubusercontent.com/75565639/191421693-269c98b5-1e84-4399-af92-bb5887fec548.png)
+<img src="https://user-images.githubusercontent.com/75565639/191422103-cfc81ff3-5443-412b-a36d-7ea095e1383c.png"
 
 <h3 align="left">🛠️ My Tech Stack</h3>
 
