@@ -61,9 +61,9 @@ Lik... </p> <br/> <br/>
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cosmicqbit/cosmicqbit/issues/1) in [cosmicqbit/cosmicqbit](https://github.com/cosmicqbit/cosmicqbit)
-2. 💪 Opened PR [#33735](https://github.com/community/community/pull/33735) in [community/community](https://github.com/community/community)
-3. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-4. 💪 Opened PR [#13](https://github.com/rohitg00/DevOpsCommunity/pull/13) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-5. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+1. ❗️ Closed issue [#1](https://github.com/cosmicqbit/cosmicqbit/issues/1) in [cosmicqbit/cosmicqbit](https://github.com/cosmicqbit/cosmicqbit)
+2. 🗣 Commented on [#1](https://github.com/cosmicqbit/cosmicqbit/issues/1) in [cosmicqbit/cosmicqbit](https://github.com/cosmicqbit/cosmicqbit)
+3. 💪 Opened PR [#33735](https://github.com/community/community/pull/33735) in [community/community](https://github.com/community/community)
+4. 🗣 Commented on [#10](https://github.com/rohitg00/DevOpsCommunity/issues/10) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+5. 💪 Opened PR [#13](https://github.com/rohitg00/DevOpsCommunity/pull/13) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
 <!--END_SECTION:activity-->
