@@ -61,9 +61,9 @@ Lik... </p> <br/> <br/>
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/wiredhackers/Free-Courses/pull/1) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
-2. 💪 Opened PR [#1](https://github.com/wiredhackers/Free-Courses/pull/1) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
-3. ❗️ Closed issue [#1](https://github.com/cosmicqbit/cosmicqbit/issues/1) in [cosmicqbit/cosmicqbit](https://github.com/cosmicqbit/cosmicqbit)
-4. 🗣 Commented on [#1](https://github.com/cosmicqbit/cosmicqbit/issues/1) in [cosmicqbit/cosmicqbit](https://github.com/cosmicqbit/cosmicqbit)
-5. 💪 Opened PR [#33735](https://github.com/community/community/pull/33735) in [community/community](https://github.com/community/community)
+1. 🎉 Merged PR [#2](https://github.com/wiredhackers/Free-Courses/pull/2) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+2. 💪 Opened PR [#2](https://github.com/wiredhackers/Free-Courses/pull/2) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+3. 🎉 Merged PR [#1](https://github.com/wiredhackers/Free-Courses/pull/1) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+4. 💪 Opened PR [#1](https://github.com/wiredhackers/Free-Courses/pull/1) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+5. ❗️ Closed issue [#1](https://github.com/cosmicqbit/cosmicqbit/issues/1) in [cosmicqbit/cosmicqbit](https://github.com/cosmicqbit/cosmicqbit)
 <!--END_SECTION:activity-->
