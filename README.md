@@ -61,9 +61,9 @@ Lik... </p> <br/> <br/>
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
-2. ❗️ Closed issue [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
-3. ❗️ Opened issue [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
-4. 🗣 Commented on [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
-5. 🎉 Merged PR [#2](https://github.com/wiredhackers/Free-Courses/pull/2) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+1. 🗣 Commented on [#1](https://github.com/youktinath/creative-coding-2-0-in-js-animation-sound-color/issues/1) in [youktinath/creative-coding-2-0-in-js-animation-sound-color](https://github.com/youktinath/creative-coding-2-0-in-js-animation-sound-color)
+2. 🗣 Commented on [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+3. ❗️ Closed issue [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+4. ❗️ Opened issue [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+5. 🗣 Commented on [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
 <!--END_SECTION:activity-->
