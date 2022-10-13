@@ -61,9 +61,9 @@ Lik... </p> <br/> <br/>
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#203](https://github.com/zero-to-mastery/webblocks-2022/pull/203) in [zero-to-mastery/webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022)
-2. 💪 Opened PR [#134](https://github.com/zero-to-mastery/canvas-2022/pull/134) in [zero-to-mastery/canvas-2022](https://github.com/zero-to-mastery/canvas-2022)
-3. 💪 Opened PR [#132](https://github.com/zero-to-mastery/canvas-2022/pull/132) in [zero-to-mastery/canvas-2022](https://github.com/zero-to-mastery/canvas-2022)
-4. 🗣 Commented on [#1](https://github.com/youktinath/creative-coding-2-0-in-js-animation-sound-color/issues/1) in [youktinath/creative-coding-2-0-in-js-animation-sound-color](https://github.com/youktinath/creative-coding-2-0-in-js-animation-sound-color)
-5. 🗣 Commented on [#3](https://github.com/wiredhackers/Free-Courses/issues/3) in [wiredhackers/Free-Courses](https://github.com/wiredhackers/Free-Courses)
+1. 💪 Opened PR [#152](https://github.com/zero-to-mastery/canvas-2022/pull/152) in [zero-to-mastery/canvas-2022](https://github.com/zero-to-mastery/canvas-2022)
+2. 💪 Opened PR [#203](https://github.com/zero-to-mastery/webblocks-2022/pull/203) in [zero-to-mastery/webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022)
+3. 💪 Opened PR [#134](https://github.com/zero-to-mastery/canvas-2022/pull/134) in [zero-to-mastery/canvas-2022](https://github.com/zero-to-mastery/canvas-2022)
+4. 💪 Opened PR [#132](https://github.com/zero-to-mastery/canvas-2022/pull/132) in [zero-to-mastery/canvas-2022](https://github.com/zero-to-mastery/canvas-2022)
+5. 🗣 Commented on [#1](https://github.com/youktinath/creative-coding-2-0-in-js-animation-sound-color/issues/1) in [youktinath/creative-coding-2-0-in-js-animation-sound-color](https://github.com/youktinath/creative-coding-2-0-in-js-animation-sound-color)
 <!--END_SECTION:activity-->
