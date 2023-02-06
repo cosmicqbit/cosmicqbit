@@ -1,4 +1,4 @@
-name: "📚 latest Blog"
+name: " latest Blog"
 
 on:
   workflow_dispatch:
