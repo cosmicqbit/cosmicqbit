@@ -1,6 +1,6 @@
 <h1 align="center">Shariq Raza Qadri 👨🏻‍💻🚀</h1>
-<h2 align="center">Frontend Dev + DevOps Enthusiast + Designer + ML Practitioner ⚡🛠️</h2>
-<img src="https://user-images.githubusercontent.com/75565639/191422103-cfc81ff3-5443-412b-a36d-7ea095e1383c.png">
+<h2 align="center">DevOps & Cloud Engineer + Frontend Dev + ML Practitioner ⚡🛠️</h2>
+<img src="https://user-images.githubusercontent.com/75565639/223793767-9417f7d8-e7c7-4f8f-a516-7d9d3b0a5d3f.png">
 
 <h3 align="left">🛠️ My Tech Stack</h3>
 
