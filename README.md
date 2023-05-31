@@ -68,7 +68,7 @@ Lik... </p> <br/> <br/>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#82](https://github.com/garritfra/darktheme.club/pull/82) in [garritfra/darktheme.club](https://github.com/garritfra/darktheme.club)
 2. 🗣 Commented on [#1](https://github.com/dishapatel010/gdriveDL/issues/1) in [dishapatel010/gdriveDL](https://github.com/dishapatel010/gdriveDL)
-3. ❗️ Opened issue [#1](https://github.com/dishapatel010/gdriveDL/issues/1) in [dishapatel010/gdriveDL](https://github.com/dishapatel010/gdriveDL)
+3. ❗ Opened issue [#1](https://github.com/dishapatel010/gdriveDL/issues/1) in [dishapatel010/gdriveDL](https://github.com/dishapatel010/gdriveDL)
 4. 💪 Opened PR [#203](https://github.com/zero-to-mastery/webblocks-2022/pull/203) in [zero-to-mastery/webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022)
 5. 💪 Opened PR [#134](https://github.com/zero-to-mastery/canvas-2022/pull/134) in [zero-to-mastery/canvas-2022](https://github.com/zero-to-mastery/canvas-2022)
 <!--END_SECTION:activity-->
